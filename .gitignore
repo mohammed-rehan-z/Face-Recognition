@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Dataset
+dataset/
+
+# Encodings
+encodings.pkl
+
+# Attendance Logs
+attendance_logs/
+
+# System Files
+.DS_Store
+Thumbs.db
