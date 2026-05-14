@@ -71,5 +71,8 @@ This project is open-source and available under the MIT License.
 ---
 
 # 👨‍💻 Author
+Mohammed Rehan Z
+Hanzala Jawwad
+Mallang Mohammed Marzuq
 
 Developed for smart classroom attendance automation using computer vision.
